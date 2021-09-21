@@ -17,7 +17,7 @@ Good luck and happy hunting :tada:!
 | [Citadel](https://www.citadel.com/careers/details/software-engineer-intern-us/) | SWE | Multiple locations | Same posting for Winter/Summer/Fall. |
 | [Cruise](https://www.getcruise.com/careers/jobs?department=2bGFusPlaxpzEPHPIb2QLK&search=intern) | Multiple positions | Multiple locations | |
 | [Google (US)](https://careers.google.com/jobs/results/111556027477828294/) | SWE | Multiple locations | Application Deadline: **August 20th 2021**|
-| [Google (Canada)](https://careers.google.com/jobs/results/85238117155381958/?hl=fr_FR) | SWE | Waterloo, Montreal | |
+| [Google (Canada) ❌](https://careers.google.com/jobs/results/85238117155381958/?hl=fr_FR) | SWE | Waterloo, Montreal | |
 | [Intel](https://jobs.intel.com/ShowJob/Id/2872320/Software-Engineer-Undergraduate-Intern) | SWE | Multiple locations | Not sure if this is for Winter. |
 | [Konrad ✅](https://boards.greenhouse.io/konradgroup/jobs/4581834003?gh_src=56dbf40d3us) | SWE | Toronto | |
 | [Microsoft (US) ✅](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities) | SWE | Multiple locations | Not sure if this is for Winter. |
@@ -38,7 +38,7 @@ Good luck and happy hunting :tada:!
 | [Databricks](https://databricks.com/company/careers/open-positions?department=universityrecruiting&location=all) | SWE | San Francisco, Amsterdam, Remote | Winter and Summer 2022 |
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/11/refreshFacet/318c8bb6f553100021d223d9780d30be) | Multiple Positions | Santa Clara, Remote | For Fall 2021, Winter and Summer 2022. |
 | [Shopify ✅](https://www.shopify.ca/careers/search?teams%5B%5D=interns&keywords=&sort=team_asc) | Various (SWE, Data Sci, Data Eng) | Remote (North America) | |
-| [Jane Street ✅](https://www.janestreet.com/join-jane-street/position/5339546002/) | SWE | New York | Visa support available. |
+| [Jane Street ❌](https://www.janestreet.com/join-jane-street/position/5339546002/) | SWE | New York | Visa support available. |
 | [RBC ✅](https://jobs.rbc.com/ca/en/job/404796/Software-Developer-Winter-Student-2022-Opportunities) | Software Developer | Remote | Potential to work in person depending on Covid restrictions |
 | [IBM ✅](https://www.ibm.com/employment/#jobs?&job-search=software%20developer%20intern%204%208%20months) | Software Developer | Ottawa, ON or Markham, ON | 4 or 8 Months |
 
